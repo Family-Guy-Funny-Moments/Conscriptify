@@ -11,8 +11,6 @@ cffi==1.15.0
 chardet==3.0.4
 charset-normalizer==2.0.12
 discord==1.7.3
-discord-py-interactions==4.2.1
-discord-py-slash-command==4.2.1
 discord.py==1.7.3
 disnake==2.5.1
 emoji==1.7.0
