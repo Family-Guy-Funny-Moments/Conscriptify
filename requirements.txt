@@ -21,7 +21,7 @@ httpcore==0.15.0
 httpx==0.23.0
 hyperframe==5.2.0
 idna==2.10
-multidict==6.0.2
+multidict==4.5
 py-cord==2.0.0rc1
 pyblox3==2.4.4
 python-dateutil==2.8.2
