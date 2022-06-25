@@ -231,4 +231,4 @@ rank:Option(str,"Select a rank in the group",choices=["Soldado","Soldado de Prim
     logChannel=client.get_channel(986757750451232849)
     await logChannel.send(embed=log)
         
-client.run('OTg2NzQ5NTAyNjQ2MDA1NzYw.GpuKdo.h7kZ1mCfuQBl96B03puO8N-mrRZ1bYuoc5ZRX4')
+client.run('OTg2NzQ5NTAyNjQ2MDA1NzYw.GjKq0F.4RYLvNdnGJPg2l_F84q5QHlFkDuMNNUH8ScxIU')
