@@ -1,3 +1,3 @@
-A private discord bot servicing multiple servers utilizing discord.py and the ROBLOX API. 
+Archived files of the private discord bot Conscriptify.
 
-ARCHIVED.
+Note: all tokens have been reset.
